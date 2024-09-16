@@ -84,7 +84,7 @@ namespace NOC_ClipBoard
 			this.Controls.Add(this.btnApagar);
 			this.Controls.Add(this.btnCopiar);
 			this.Controls.Add(this.textBox_Content);
-			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.Name = "MainForm";
 			this.Text = "NOC ClipBoard";
