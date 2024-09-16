@@ -47,7 +47,8 @@ namespace NOC_ClipBoard
 			// 
 			// textBox_Content
 			// 
-			this.textBox_Content.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.textBox_Content.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.textBox_Content.ForeColor = System.Drawing.Color.Red;
 			this.textBox_Content.Location = new System.Drawing.Point(12, 12);
 			this.textBox_Content.Name = "textBox_Content";
 			this.textBox_Content.Size = new System.Drawing.Size(402, 234);
@@ -78,6 +79,7 @@ namespace NOC_ClipBoard
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.BackColor = System.Drawing.SystemColors.Menu;
 			this.ClientSize = new System.Drawing.Size(426, 314);
 			this.Controls.Add(this.btnApagar);
 			this.Controls.Add(this.btnCopiar);
