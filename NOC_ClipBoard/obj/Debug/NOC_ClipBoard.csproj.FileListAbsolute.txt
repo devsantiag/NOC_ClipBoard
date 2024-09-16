@@ -1,0 +1,8 @@
+C:\NOC_ClipBoard\NOC_ClipBoard\bin\Debug\NOC_ClipBoard.exe.config
+C:\NOC_ClipBoard\NOC_ClipBoard\bin\Debug\NOC_ClipBoard.exe
+C:\NOC_ClipBoard\NOC_ClipBoard\bin\Debug\NOC_ClipBoard.pdb
+C:\NOC_ClipBoard\NOC_ClipBoard\obj\Debug\NOC_ClipBoard.csprojResolveAssemblyReference.cache
+C:\NOC_ClipBoard\NOC_ClipBoard\obj\Debug\NOC_ClipBoard.exe
+C:\NOC_ClipBoard\NOC_ClipBoard\obj\Debug\NOC_ClipBoard.pdb
+C:\NOC_ClipBoard\NOC_ClipBoard\obj\Debug\NOC_ClipBoard.MainForm.resources
+C:\NOC_ClipBoard\NOC_ClipBoard\obj\Debug\NOC_ClipBoard.csproj.GenerateResource.Cache
