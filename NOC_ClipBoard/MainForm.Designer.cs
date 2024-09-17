@@ -47,7 +47,7 @@ namespace NOC_ClipBoard
 			// 
 			// textBox_Content
 			// 
-			this.textBox_Content.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.textBox_Content.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox_Content.ForeColor = System.Drawing.Color.Red;
 			this.textBox_Content.Location = new System.Drawing.Point(12, 12);
 			this.textBox_Content.Name = "textBox_Content";
